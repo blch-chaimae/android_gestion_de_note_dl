@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Devoir_libre</string>
+    <string name="country_prompt">Choisir un module</string>
+
+    <string-array name="modules_arrays">
+        <item>Administration System</item>
+        <item>Developpement Mobile</item>
+        <item>Soft Skils</item>
+        <item>JEE</item>
+    </string-array>
+</resources>
